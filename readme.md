@@ -2,7 +2,7 @@
 ## Nim      : 311910374
 ## Kelas    : TI 19 B2
 
-# UTS PEMROGRAMAN WEB
+# UTS PEMROGRAMAN  WEB
 ```
 1. Carilah mockup/sketsa desain web (dalam format psd, png, cdr, svg, dll) 
 2. Buat HTML dan CSS berdasarkan mockup desain tersebut. 
